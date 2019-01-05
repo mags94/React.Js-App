@@ -1,9 +1,9 @@
 # React.js-app
-Collection of applications using React.js
+Application using React.js
 
 Problem statement :
 
-In this coding assignment we will create a sample web application. You must use the Vue.JS/React.JS for front-end. This application should exhibit best practices for application development where possible. 
+In this coding assignment we will create a sample web application. You must use the React.JS for front-end.
  
 Application Requirements:
 1. Build a screen which shows a list of hour long slots from 9am to 5pm.                  
